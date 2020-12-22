@@ -1,4 +1,10 @@
 .header {
+	&__fixed {
+		position: fixed;
+		z-index: 100;
+		width: 100%;
+	}
+
 	&__wrapper {
 		display: flex;
 		align-items: center;

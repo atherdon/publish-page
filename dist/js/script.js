@@ -131,8 +131,14 @@ jQuery(function ($) {
 		$('.burger__menu').on('click', function (e) {
 			e.preventDefault();
 			$('.burger').toggleClass('burger-active');
-			$('.nav-header').toggleClass('nav-header__active');
+			$('.menu').toggleClass('menu__open');
 		});
+
+		$('.menu__btn-close').on('click', function(e) {
+			e.preventDefault();
+			$('.menu').removeClass('menu__open');
+			$('.burger').removeClass('burger-active');
+		})
 
 
 		$('.slider-submit').slick({
