@@ -1,0 +1,51 @@
+// * ===========  BURGER =========== //
+.burger {
+	position: relative;
+	bottom: -13px;
+	//display: none;
+	width: 22px;
+	height: 3px;
+	background-color: $green;
+
+	&::before {
+		content: "";
+		position: absolute;
+		left: 0;
+		top: 10px;
+		display: block;
+		width: 22px;
+		height: 3px;
+		background-color: $green;
+		transition: transform 0.2s ease-in, top 0.2s linear 0.2s;
+	}
+
+	&::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		top: -10px;
+		display: block;
+		width: 22px;
+		height: 3px;
+		background-color: $green;
+		transition: transform 0.2s ease-in, top 0.2s linear 0.2s;
+	}
+
+	&.burger-active {
+		background-color: transparent;
+	}
+
+	&.burger-active::after {
+		top: 0;
+		background-color: $green;
+		transform: rotate(45deg);
+		transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+	}
+
+	&.burger-active::before {
+		top: 0;
+		background-color: $green;
+		transform: rotate(-45deg);
+		transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+	}
+}

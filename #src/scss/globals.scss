@@ -1,0 +1,77 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0 10px;
+	width: 1000px;
+	height: 100%;
+
+	@media only screen and (max-width: 1000px) {
+		width: 768px;
+	}
+
+	@media only screen and (max-width: 768px) {
+		width: 576px;
+	}
+
+	@media only screen and (max-width: 576px) {
+		width: 414px;
+	}
+
+	@media only screen and (max-width: 414px) {
+		width: 380px;
+	}
+
+	@media only screen and (max-width: 380px) {
+		padding: 0 5px;
+		width: 100%;
+	}
+
+	// @media only screen and (max-width: 320px) {
+	// 	padding: 0 5px;
+	// 	width: 300px;
+	// }
+}
+
+.bg-green {
+	height: inherit;
+	background-color: $green;
+}
+
+.bg-cod-grey {
+	height: inherit;
+	background-color: $cod-gray;
+}
+
+.slick-list {
+	overflow: hidden;
+}
+
+.slick-track {
+	display: flex;
+}
