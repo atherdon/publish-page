@@ -1,0 +1,28 @@
+.slider-press {
+	background-color: $cod-gray;
+
+	&__title {
+		padding: 100px 0;
+		font-family: "sf-pro-heavy";
+		font-size: 40px;
+		text-align: center;
+		color: $white;
+		cursor: pointer;
+
+		h4:hover {
+			color: $green;
+			transition: color 0.4s ease 0s;
+		}
+	}
+
+	&__list {
+		padding: 10px;
+	}
+
+	&__item {
+		img {
+			width: 175px;
+			margin: 0 10px 10px 0;
+		}
+	}
+}

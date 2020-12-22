@@ -1,0 +1,11 @@
+.sec-main {
+	width: 100%;
+	height: 100%;
+
+	img {
+		display: flow-root; // прибираємо відстув внизу зображення
+		overflow: auto; // прибираємо відстув внизу зображення
+		width: 100%;
+		object-fit: cover;
+	}
+}

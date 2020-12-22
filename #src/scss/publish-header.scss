@@ -1,0 +1,44 @@
+.header {
+	&__wrapper {
+		display: flex;
+		align-items: center;
+		height: 53px;
+		background-color: $cod-gray;
+	}
+
+	&__item {
+		width: 33.3333%;
+	}
+
+	&__logo,
+	&__socials {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	&__logo {
+		img {
+			width: 41px;
+		}
+	}
+
+	&__socials {
+		height: inherit;
+	}
+
+	&__socials-item {
+		margin: 0 10px;
+
+		img {
+			width: 20px;
+			height: 20px;
+		}
+	}
+}
+
+.burger__menu {
+	margin-left: 100px;
+	width: 30px;
+	height: 30px;
+}
