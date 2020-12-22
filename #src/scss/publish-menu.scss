@@ -1,0 +1,42 @@
+.menu {
+	position: fixed;
+	bottom: 0;
+	z-index: 10;
+	width: 100%;
+	background-color: $cod-gray;
+	transform: translateY(100%);
+
+	&__open {
+		transform: translateY(0%);
+		transition: transform 0.3s ease 0s;
+	}
+
+	&__btn-close {
+		margin-right: 40px;
+		width: 31px;
+		fill: $green;
+		cursor: pointer;
+	}
+
+	&__list {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	&__item {
+		margin: 0 20px;
+
+		a {
+			font-family: "sf-pro-heavy";
+			font-size: 15px;
+			line-height: 80px;
+			color: $green;
+
+			&:hover {
+				color: $white;
+				transition: color 0.4s ease 0s;
+			}
+		}
+	}
+}

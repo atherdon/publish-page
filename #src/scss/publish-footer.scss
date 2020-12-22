@@ -1,0 +1,16 @@
+.footer {
+	text-align: center;
+	background-color: $japanese-laurel;
+
+	a {
+		font-family: "sf-pro-heavy";
+		font-size: 15px;
+		line-height: 40px;
+		color: $green;
+
+		&:hover {
+			color: $white;
+			transition: color 0.4s ease 0s;
+		}
+	}
+}

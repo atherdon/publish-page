@@ -1,0 +1,27 @@
+.submit {
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	font-family: "sf-pro-heavy";
+	font-size: 35px;
+	line-height: 50px;
+	text-align: center;
+	background-color: $japanese-laurel;
+
+	.green-crusoe {
+		color: $crusoe;
+	}
+
+	.green-darken {
+		color: $green-darken;
+	}
+
+	.green {
+		color: $green;
+	}
+
+	a:hover {
+		color: $white;
+		transition: color 0.4s ease 0s;
+	}
+}
