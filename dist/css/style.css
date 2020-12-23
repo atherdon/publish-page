@@ -497,6 +497,10 @@ a {
     display: flex;
 }
 
+.slick-loading .slick-list {
+    background: #fff url("../img/ajax-loader.gif") center center no-repeat;
+}
+
 .burger {
     position: relative;
     bottom: -13px;
@@ -746,13 +750,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 165px;
+    width: 171px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(1) img {
-    width: 165px;
+    width: 171px;
 }
 
 .sec-community__masonry a:nth-child(2) {
@@ -761,13 +765,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 141px;
+    width: 241px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(2) img {
-    width: 141px;
+    width: 241px;
 }
 
 .sec-community__masonry a:nth-child(3) {
@@ -776,13 +780,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 332px;
+    width: 298px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(3) img {
-    width: 332px;
+    width: 298px;
 }
 
 .sec-community__masonry a:nth-child(4) {
@@ -791,13 +795,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 262px;
+    width: 292px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(4) img {
-    width: 262px;
+    width: 292px;
 }
 
 .sec-community__masonry-brick {
