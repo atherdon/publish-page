@@ -58,7 +58,6 @@ a {
 	// }
 }
 
-
 .bg-green {
 	height: inherit;
 	background-color: $green;
@@ -75,4 +74,8 @@ a {
 
 .slick-track {
 	display: flex;
+}
+
+.slick-loading .slick-list {
+	background: #fff url('../img/ajax-loader.gif') center center no-repeat;
 }

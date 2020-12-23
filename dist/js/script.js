@@ -116,6 +116,46 @@ document.addEventListener('keydown', function (e) {
 jQuery(function ($) {
 	$(document).ready(function () {
 
+		$('#sec-community').on('click', function(e){
+			var destination = $(".sec-community").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+		$('#slider-submitting').on('click', function(e){
+			var destination = $(".slider-submitting").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+		$('#slider-press').on('click', function(e){
+			var destination = $(".slider-press").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+		$('#join').on('click', function(e){
+			var destination = $(".join").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+		$('#gallery').on('click', function(e){
+			var destination = $(".gallery").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+		$('#leaders').on('click', function(e){
+			var destination = $(".leaders").offset().top - $('.header').outerHeight();
+			e.preventDefault();
+			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
+		});
+
+
+
+
+
 		$('.arrow-up').on('click', function (e) {
 			e.preventDefault();
 			e.stopPropagation();
@@ -138,7 +178,7 @@ jQuery(function ($) {
 			e.preventDefault();
 			$('.menu').removeClass('menu__open');
 			$('.burger').removeClass('burger-active');
-		})
+		});
 
 
 		$('.slider-submit').slick({
