@@ -2,12 +2,21 @@
 	&__wrapper {
 		display: flex;
 		width: 100%;
+
+		@media only screen and (max-width: 980px) {
+			flex-direction: column;
+		}
 	}
 
 	&__item {
 		position: relative;
 		width: 50%;
 		height: 300px;
+
+		@media only screen and (max-width: 980px) {
+			width: 100%;
+			
+		}
 
 		&.green,
 		&.green-darken {
@@ -24,6 +33,10 @@
 			p {
 				color: $japanese-laurel;
 			}
+
+			@media only screen and (max-width: 980px) {
+				height: auto;
+			}
 		}
 
 		&.green-darken {
@@ -33,6 +46,8 @@
 			p {
 				color: $green;
 			}
+
+			
 		}
 	}
 
@@ -73,10 +88,20 @@
 		display: flex;
 		justify-content: center;
 		margin-top: 80px;
+
+		@media only screen and (max-width: 980px) {
+			flex-wrap: wrap;
+			justify-content: flex-start;
+			margin: 20px 0;
+		}
 	}
 
 	&__nav-list {
 		margin: 0 20px;
+
+		@media only screen and (max-width: 546px) {
+			margin-top: 20px;
+		}
 
 		.nav-title {
 			height: 40px;

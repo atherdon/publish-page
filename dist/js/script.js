@@ -119,36 +119,54 @@ jQuery(function ($) {
 		$('#sec-community').on('click', function(e){
 			var destination = $(".sec-community").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
 		$('#slider-submitting').on('click', function(e){
 			var destination = $(".slider-submitting").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
 		$('#slider-press').on('click', function(e){
 			var destination = $(".slider-press").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
 		$('#join').on('click', function(e){
 			var destination = $(".join").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
 		$('#gallery').on('click', function(e){
 			var destination = $(".gallery").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
 		$('#leaders').on('click', function(e){
 			var destination = $(".leaders").offset().top - $('.header').outerHeight();
 			e.preventDefault();
+			$('.burger').removeClass('burger-active');
+			$('.menu').removeClass('menu__open');
+			$('.header__wrapper').removeClass('header__wrapper-green');
 			$('html, body').animate({ scrollTop: destination }, 1000); // Скорость прокрутки
 		});
 
@@ -172,6 +190,7 @@ jQuery(function ($) {
 			e.preventDefault();
 			$('.burger').toggleClass('burger-active');
 			$('.menu').toggleClass('menu__open');
+			$('.header__wrapper').toggleClass('header__wrapper-green');
 		});
 
 		$('.menu__btn-close').on('click', function(e) {

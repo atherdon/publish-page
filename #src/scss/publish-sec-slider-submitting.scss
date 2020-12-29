@@ -16,5 +16,14 @@
 			width: 540px;
 			height: 540px;
 		}
+
+		@media only screen and (max-width: 568px) {
+			width: 320px;
+
+			img {
+				width: 320px;
+				height: 320px;
+			}
+		}
 	}
 }

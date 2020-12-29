@@ -13,6 +13,11 @@
 			color: $green;
 			transition: color 0.4s ease 0s;
 		}
+
+		@media only screen and (max-width: 414px) {
+			padding: 20px;
+			font-size: 28px;
+		}
 	}
 
 	&__list {

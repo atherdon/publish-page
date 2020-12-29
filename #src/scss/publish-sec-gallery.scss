@@ -21,6 +21,14 @@
 			color: $green;
 			transition: color 0.4s ease 0s;
 		}
+
+		@media only screen and (max-width: 414px) {
+			padding: 20px;
+
+			.top {
+				font-size: 28px;
+			}
+		}
 	}
 
 	&__wrapper {
@@ -33,8 +41,6 @@
 		margin: 0 10px 10px;
 		width: 31%;
 
-		
-
 		&:hover {
 			.gallery__item-text {
 				opacity: 1;
@@ -45,6 +51,14 @@
 				opacity: 1;
 				visibility: visible;
 			}
+		}
+
+		@media only screen and (max-width: 845px) {
+			width: 47%;
+		}
+
+		@media only screen and (max-width: 668px) {
+			width: 100%;
 		}
 	}
 
