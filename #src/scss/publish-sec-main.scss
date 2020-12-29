@@ -8,4 +8,10 @@
 		width: 100%;
 		object-fit: cover;
 	}
+
+	@media only screen and (max-width: 980px) {
+		display: none;
+		opacity: 0;
+		visibility: hidden;
+	}
 }

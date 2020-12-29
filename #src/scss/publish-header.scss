@@ -10,10 +10,30 @@
 		align-items: center;
 		height: 53px;
 		background-color: $cod-gray;
+
+		&.header__wrapper-green {
+			@media only screen and (max-width: 980px) {
+				background-color: $green;
+			}
+		}
 	}
 
 	&__item {
 		width: 33.3333%;
+
+		&.bg-green,
+		&.logo {
+			@media only screen and (max-width: 980px) {
+				display: none;
+			}
+		}
+
+		@media only screen and (max-width: 980px) {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+		}
 	}
 
 	&__logo,
@@ -21,6 +41,10 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
+
+		@media only screen and (max-width: 980px) {
+			display: none;
+		}
 	}
 
 	&__logo {
@@ -47,4 +71,9 @@
 	margin-left: 100px;
 	width: 30px;
 	height: 30px;
+
+	@media only screen and (max-width: 980px) {
+		margin-left: 0;
+				
+	}
 }

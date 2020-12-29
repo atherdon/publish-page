@@ -17,6 +17,11 @@
 		height: 3px;
 		background-color: $green;
 		transition: transform 0.2s ease-in, top 0.2s linear 0.2s;
+
+		@media only screen and (max-width: 980px) {
+			left: 13px;
+			width: 13px;
+		}
 	}
 
 	&::after {
@@ -29,10 +34,15 @@
 		height: 3px;
 		background-color: $green;
 		transition: transform 0.2s ease-in, top 0.2s linear 0.2s;
+
+		@media only screen and (max-width: 980px) {
+			width: 13px;
+		}
 	}
 
 	&.burger-active {
 		background-color: transparent;
+
 	}
 
 	&.burger-active::after {
@@ -40,6 +50,12 @@
 		background-color: $green;
 		transform: rotate(45deg);
 		transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+
+		@media only screen and (max-width: 980px) {
+			left: 0;
+			width: 26px;
+			background-color: $cod-gray;
+		}
 	}
 
 	&.burger-active::before {
@@ -47,5 +63,16 @@
 		background-color: $green;
 		transform: rotate(-45deg);
 		transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+
+		@media only screen and (max-width: 980px) {
+			left: 0;
+			width: 26px;
+			background-color: $cod-gray;
+
+		}
+	}
+
+	@media only screen and (max-width: 980px) {
+		width: 26px;
 	}
 }

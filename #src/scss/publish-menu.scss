@@ -6,9 +6,27 @@
 	background-color: $cod-gray;
 	transform: translateY(100%);
 
+	@media only screen and (max-width: 980px) {
+		top: 0;
+		bottom: auto;
+		//z-index: 105;
+		height: 100vh;
+		background-color: $green;
+		transform: translateY(-100%);
+		transition: transform 0.3s linear;
+
+		a {
+			color: $cod-gray;
+		}
+	}
+
 	&__open {
 		transform: translateY(0%);
-		transition: transform 0.3s ease 0s;
+		transition: transform 0.3s linear;
+
+		@media only screen and (max-width: 980px) {
+			transform: translateY(52px);
+		}
 	}
 
 	&__btn-close {
@@ -16,12 +34,20 @@
 		width: 31px;
 		fill: $green;
 		cursor: pointer;
+
+		@media only screen and (max-width: 980px) {
+			display: none;
+		}
 	}
 
 	&__list {
 		display: flex;
 		align-items: center;
 		justify-content: center;
+
+		@media only screen and (max-width: 980px) {
+			flex-direction: column;
+		}
 	}
 
 	&__item {
