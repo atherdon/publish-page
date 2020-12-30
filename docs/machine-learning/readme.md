@@ -3,7 +3,6 @@ https://hackernoon.com/amazing-examples-of-ai-applications-and-machine-learning-
 Amazing Examples of AI and Machine Learning Applications
 
 by @stacy
-https://hackernoon.com/@stacy
 
 
 
@@ -26,9 +25,7 @@ https://hackernoon.com/a-detailed-guide-for-machine-learning-algorithms-things-y
 
 A Detailed Primer on Machine Learning Algorithms
 
-by @Amyra%20Sheldon
-
-https://hackernoon.com/@Amyra%20Sheldon
+by @Amyra Sheldon
 
 
 
@@ -41,8 +38,6 @@ https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
 Learning AI if You Suck at Math
 
 by @daniel-jeffries
-
-https://hackernoon.com/@daniel-jeffries
 
 
 
@@ -57,21 +52,6 @@ Four Novel Machine Learning Methods for Analyzing Blockchain Datasets
 
 by @jrodthoughts
 
-https://hackernoon.com/@jrodthoughts
-
-
-
-
----
-
-
-
-
-
-
-
-
----
 
 
 
@@ -82,7 +62,9 @@ https://hackernoon.com/@jrodthoughts
 
 
 
----
+
+
+
 
 
 
@@ -92,9 +74,6 @@ https://hackernoon.com/how-to-manage-machine-learning-products-part-i-why-is-man
 How to Manage Machine Learning Products Part I: Why is managing machine learning products so hard?
 
 by @bastiane
-
-https://hackernoon.com/@bastiane
-
 
 
 
@@ -108,10 +87,6 @@ https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1
 Why is DevOps for Machine Learning so Different?
 
 by @ryandawsonuk
-
-https://hackernoon.com/@ryandawsonuk
-
-
 
 
 
@@ -127,8 +102,6 @@ Taking Surgery to the Next Level with Machine Learning
 
 by @michaelpatterson
 
-https://www.hackernoon.com/@michaelpatterson
-
 
 
 
@@ -143,9 +116,6 @@ Machine Learning Applications Across Different Industries
 
 by @scarlett-rose
 
-https://hackernoon.com/@scarlett-rose
-
-
 
 
 ---
@@ -159,8 +129,6 @@ https://hackernoon.com/how-to-apply-machine-learning-and-deep-learning-methods-t
 How To Apply Machine Learning And Deep Learning Methods to Audio Analysis
 
 by @comet.ml
-
-https://hackernoon.com/@comet.ml
 
 
 
@@ -180,9 +148,6 @@ Machine Learning, 5G and Data Science Will be Critical to the Future of the Inte
 
 by @lautarolobo
 
-https://hackernoon.com/@lautarolobo
-
-
 
 
 ---
@@ -198,7 +163,6 @@ Learning AI if You Suck at Math — P5 — Deep Learning and Convolutional Neura
 
 by @daniel-jeffries
 
-https://hackernoon.com/@daniel-jeffries
 
 
 
@@ -212,15 +176,9 @@ A Full Time ML Role, 1 Million Blog Views, 10k Podcast Downloads: A Community Ta
 
 by @init_27
 
-https://hackernoon.com/@init_27
-
 
 
 ---
-
-
-
-
 
 
 
