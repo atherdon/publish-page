@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	@@include('blocks/software-testing/_publish-meta.html')
+	@@include('blocks/template/_publish-meta.html')
 </head>
 
 <body>
@@ -14,7 +14,7 @@
 		@@include('blocks/template/_publish-sec-slider-submitting.html')
 		@@include('blocks/template/_publish-sec-main.html')
 		@@include('blocks/template/_publish-sec-slider-press.html')
-		@@include('blocks/software-testing/_publish-sec-gallery.html')
+		@@include('blocks/template/_publish-sec-gallery.html')
 		@@include('blocks/template/_publish-sec-join.html')
 		@@include('blocks/template/_publish-sec-leaders.html')
 		@@include('blocks/template/_publish-sec-submit.html')
@@ -23,8 +23,69 @@
 		@@include('blocks/template/_publish-menu.html')
 
 	</div>
-	<script src="js/libs.min.js"></script>
 
+
+	<script>
+		var pageTitle = "Software Testing";
+
+		var data = [{
+			link: "https://hackernoon.com/test-driven-development-with-rspec-in-rails-gsr3zrs",
+			image: "https://hackernoon.com/images/wjcf3zos.jpg",
+			title: "Test-Driven Development with RSpec in Rails",
+			author: "Radouane Khiri"
+		},
+		{
+			link: "https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6",
+			image: "https://hackernoon.com/images/0k3by31rj.jpg",
+			title: "11 Reasons Why Software Testing Has a Better Future Than Development",
+			author: "Lorenzo Gutierrez"
+		},
+		{
+			link: "https://hackernoon.com/why-your-devops-projects-first-commit-should-already-have-a-working-app-and-cicd-pipeline-to-produc-lpp32l6",
+			image: "https://hackernoon.com/images/799o32mf.jpg",
+			title: "Why Your Project's 1st Commit Should Have a Working App & CI/CD Pipeline",
+			author: "Steven Randolph"
+		},
+		{
+			link: "https://hackernoon.com/behavior-driven-development-from-scratch-99r32fj",
+			image: "https://hackernoon.com/drafts/sop323q.png",
+			title: "Behavior-Driven Development From Scratch [101]",
+			author: "Julien Topçu"
+		},
+		{
+			link: "https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d",
+			image: "https://hackernoon.com/drafts/u71x93zqm.png",
+			title: "Test-Driven Development is Fundamentally Wrong",
+			author: "Chris Fox"
+		},
+		{
+			link: "https://hackernoon.com/why-ai-ml-will-shake-software-testing-up-in-2019-b3f86a30bcfa",
+			image: "https://hackernoon.com/hn-images/0*q-cEYzt2_J1E77aJ",
+			title: "Why AI & ML Will Shake Software Testing up in 2019",
+			author: "Oleksii Kharkovyna"
+		},
+		{
+			link: "https://hackernoon.com/software-development-lifecycle-sdlc-a-simple-explanation-78d77c466355",
+			image: "https://hackernoon.com/hn-images/1*gvBfl_06WRZSlIXO4e_-QQ.png",
+			title: "Software Development Lifecycle (SDLC)— A Simple Explanation",
+			author: "Harsh Binani"
+		},
+		{
+			link: "https://hackernoon.com/three-patterns-for-an-effective-cloud-native-development-workflow-6f59525f5bf1",
+			image: "https://hackernoon.com/hn-images/1*mE50n_PtCA30WiqhubLqwA.png",
+			title: "Three Patterns for an Effective Cloud Native Development Workflow",
+			author: "username"
+		},
+		{
+			link: "https://hackernoon.com/gcp-and-the-future-of-software-testing-8cfade4bcf57",
+			image: "https://hackernoon.com/hn-images/0*Fq6NsHMa4_GmgzjD",
+			title: "GCP and the Future of Software Testing",
+			author: "mabl"
+		},
+	];
+
+	</script>
+	<script src="js/libs.min.js"></script>
 	<script src="js/script.min.js"></script>
 </body>
 
