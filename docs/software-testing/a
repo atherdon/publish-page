@@ -4,57 +4,58 @@
 ```
 
 var data = [{
-			link: "",
+			link: "https://hackernoon.com/test-driven-development-with-rspec-in-rails-gsr3zrs",
 			image: "",
-			title: "",
-			author: ""
+			title: "Test-Driven Development with RSpec in Rails",
+			author: "red12003"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6",
 			image: "",
-			title: "",
-			author: ""
+			title: "11 Reasons Why Software Testing Has a Better Future Than Development",
+			author: "lorenzo-gutierrez"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/why-your-devops-projects-first-commit-should-already-have-a-working-app-and-cicd-pipeline-to-produc-lpp32l6",
 			image: "",
-			title: "",
-			author: ""
+			title: "Why Your Project's 1st Commit Should Have a Working App & CI/CD Pipeline",
+			author: "steven-randolph"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/behavior-driven-development-from-scratch-99r32fj",
 			image: "",
-			title: "",
-			author: ""
+			title: "Behavior-Driven Development From Scratch [101]",
+			author: "julien-topcu"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d",
 			image: "",
-			title: "",
-			author: ""
+			title: "Test-Driven Development is Fundamentally Wrong",
+			author: "Cheopys"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/why-ai-ml-will-shake-software-testing-up-in-2019-b3f86a30bcfa",
 			image: "",
-			title: "",
-			author: ""
+			title: "Why AI & ML Will Shake Software Testing up in 2021",
+			author: "oleksii_kh"
 		},
 		{
-			link: ""
-			title: "",
-			author: ""
+			link: "https://hackernoon.com/software-development-lifecycle-sdlc-a-simple-explanation-78d77c466355"
+			image: "",
+			title: "Software Development Lifecycle (SDLC)— A Simple Explanation",
+			author: "username"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/three-patterns-for-an-effective-cloud-native-development-workflow-6f59525f5bf1",
 			image: "",
-			title: "",
-			author: ""
+			title: "Three Patterns for an Effective Cloud Native Development Workflow",
+			author: "username"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/gcp-and-the-future-of-software-testing-8cfade4bcf57",
 			image: "",
-			title: "",
-			author: ""
+			title: "GCP and the Future of Software Testing",
+			author: "mabl"
 		},
 	];
 
