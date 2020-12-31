@@ -111,6 +111,31 @@ document.addEventListener('keydown', function (e) {
 });
 
 
+function insertData() {
+
+	var insertData = "";
+
+	for (i = 0; i < data.length; i++) {
+	
+		//console.log(data[i].link);
+
+		insertData += `
+		<div class="gallery__item">
+		<a href="${data[i].link}">
+			<div class="gallery__item-content">
+				<img src="${data[i].image}" alt="" loading="lazy">
+				<div class="gallery__item-text">
+					<p class="caption">${data[i].title}</p>
+					<p class="author">${data[i].author}</p>
+				</div>
+			</div>
+		</a>
+	</div>`	
+	}
+	
+	$('.gallery__wrapper').html(insertData);
+}
+
 
 
 jQuery(function ($) {
@@ -215,6 +240,11 @@ jQuery(function ($) {
 			variableWidth: true,
 
 		});
+
+
+		if (typeof data !== 'undefined' && data) {
+			insertData();
+		}
 		
 
 
