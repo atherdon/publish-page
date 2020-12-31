@@ -5,57 +5,57 @@
 
 var data = [{
 			link: "https://hackernoon.com/became-an-idea-generator-with-scamper-method-pncc3ysi",
-			image: "",
+			image: "https://hackernoon.com/drafts/dg1wi3y7v.png",
 			title: "Become an Idea Generator via the S.C.A.M.P.E.R. Method",
-			author: "carlo"
+			author: "Carlo"
 		},
 		{
 			link: "https://hackernoon.com/the-growth-of-vertical-saas-challenges-market-leaders-aids-startups-r4q32hz",
-			image: "",
+			image: "https://hackernoon.com/drafts/854h32ml.png",
 			title: "Growth of Vertical SaaS Challenges Market Leaders, Benefits Startups",
-			author: "techlooter"
+			author: "Andrej Kovacevic"
 		},
 		{
 			link: "https://hackernoon.com/how-firstbaseio-helps-technology-companies-scale-1o9832eu",
-			image: "",
+			image: "https://hackernoon.com/drafts/a21k32mp.png",
 			title: "How Setting up a Company in the US Helps Startups Scale",
-			author: "DmitryKardis"
+			author: "Dmitry Kardis"
 		},
 		{
 			link: "https://hackernoon.com/5-reasons-why-your-business-needs-vr-today-z31642ul",
-			image: "",
+			image: "https://hackernoon.com/images/5hf242ho.jpg",
 			title: "5 Reasons Why Your Business Needs VR Today",
-			author: "anna_s"
+			author: "Anna"
 		},
 		{
 			link: "https://hackernoon.com/need-a-startup-idea-start-with-a-problem-2bd74f2e108c",
-			image: "",
+			image: "https://hackernoon.com/hn-images/1*Uh7g66yz5jvtHb8waxrdGQ.jpeg",
 			title: "Need a startup idea? Start with a problem.",
-			author: "iamnoahwheeler"
+			author: "Noah Wheeler"
 		},
 		{
 			link: "https://hackernoon.com/have-you-ever-been-told-thats-not-a-good-idea-fpdb38o8",
-			image: "",
+			image: "https://hackernoon.com/drafts/ox393870.png",
 			title: "Have You Ever Been Told Your Business Idea Sucks?",
-			author: "patrickleet"
+			author: "Patrick Lee Scott"
 		},
 		{
 			link: "https://hackernoon.com/the-thought-process-behind-startup-ideas-862c01d07f30"
-			image: "",
+			image: "https://hackernoon.com/hn-images/1*HqSt7ak8Cqi4dlsUa8dIyQ.jpeg",
 			title: "The Thought Process Behind Startup Ideas",
-			author: "quoraanswers"
+			author: "Quora Answers"
 		},
 		{
 			link: "https://hackernoon.com/10-000-new-business-ideas-using-heuristics-jd5e326s",
-			image: "",
+			image: "https://hackernoon.com/drafts/e35my32dt.png",
 			title: "10,000+ Personalized Business Ideas Using Heuristics",
-			author: "smepals"
+			author: "David Mercer"
 		},
 		{
 			link: "https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02",
-			image: "",
+			image: "https://hackernoon.com/hn-images/1*akUKwxc1SnxCEuqBzwK3Fg.png",
 			title: "The MVP is dead. Long live the RAT.",
-			author: "rikhigham"
+			author: "Rik Higham"
 		},
 	];
 
