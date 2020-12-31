@@ -40,22 +40,22 @@ var data = [{
 			author: "geshanm"
 		},
 		{
-			link: "https://hacktan31zg",
+			link: "https://hackernoon.com/deploy-a-react-application-to-kubernetes-cluster-on-google-cloud-platform-3idt32ha",
 			image: "",
-			title: "Understbate",
-			author: ""
+			title: "Deploy React Application to Kubernetes Cluster on Google Cloud Platform",
+			author: "uchenebed"
 		},
 		{
-			link: "https://hackerth-ik1334co",
-			image: "https://hacker6Zx5nmHwA4JRCtfZkr2-obu34qf.jpeg",
-			title: "10 Financiealth",
-			author: ""
+			link: "https://hackernoon.com/k8s-on-google-cloud-in-under-60-seconds-dgjp3rm3",
+			image: "",
+			title: "Installing Kubernetes on Google Cloud in 60 seconds",
+			author: "DavidZisky"
 		},
 		{
-			link: "https://hacgi434sm",
+			link: "https://hackernoon.com/key-considerations-for-a-smart-cloud-migration-strategy-za9zd441u",
 			image: "",
-			title: "Non-Futaverse",
-			author: ""
+			title: "Key Considerations for a Smart Cloud Migration Strategy",
+			author: "twaintaylor"
 		},
 	];
 
