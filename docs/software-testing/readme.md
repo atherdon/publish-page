@@ -11,6 +11,7 @@ Test-Driven Development with RSpec in Rails
 
 
 
+
 ---
 
 
@@ -105,4 +106,3 @@ GCP and the Future of Software Testing
 
 
 @mabl
-
