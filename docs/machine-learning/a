@@ -1,0 +1,63 @@
+
+
+
+```
+
+var data = [{
+			link: "https://hackernoon.com/amazing-examples-of-ai-applications-and-machine-learning-ze16o31jf",
+			image: "",
+			title: "Amazing Examples of AI and Machine Learning Applications",
+			author: "stacy"
+		},
+		{
+			link: "https://hackernoon.com/a-detailed-guide-for-machine-learning-algorithms-things-you-must-know-hw97324sa",
+			image: "",
+			title: "A Detailed Primer on Machine Learning Algorithms",
+			author: "Amyra Sheldon"
+		},
+		{
+			link: "https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037",
+			image: "",
+			title: "Learning AI if You Suck at Math",
+			author: "daniel-jeffries"
+		},
+		{
+			link: "https://hackernoon.com/four-novel-machine-learning-methods-can-help-with-the-analysis-of-blockchain-datasets-9m5t36v2",
+			image: "",
+			title: "Four Novel Machine Learning Methods for Analyzing Blockchain Datasets",
+			author: "jrodthoughts"
+		},
+		{
+			link: "https://hackernoon.com/how-to-manage-machine-learning-products-part-i-why-is-managing-machine-learning-products-so-hard-a-i91i32qd",
+			image: "",
+			title: "How to Manage Machine Learning Products Part I: Why is managing machine learning products so hard?",
+			author: "bastiane"
+		},
+		{
+			link: "https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1",
+			image: "",
+			title: "Why is DevOps for Machine Learning so Different?",
+			author: "ryandawsonuk"
+		},
+		{
+			link: "https://www.hackernoon.com/taking-surgery-to-the-next-level-with-machine-learning-qj3fo3zg4"
+			image: "",
+			title: "Taking Surgery to the Next Level with Machine Learning",
+			author: "michaelpatterson"
+		},
+		{
+			link: "https://hackernoon.com/application-of-machine-learning-across-different-industries-v27yc30wp",
+			image: "",
+			title: "Machine Learning Applications Across Different Industries",
+			author: "scarlett-rose"
+		},
+		{
+			link: "https://hackernoon.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analyis-wt6p32qz",
+			image: "",
+			title: "How To Apply Machine Learning And Deep Learning Methods to Audio Analysis",
+			author: "comet.ml"
+		},
+	];
+
+
+```
