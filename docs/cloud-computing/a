@@ -1,0 +1,63 @@
+
+
+
+```
+
+var data = [{
+			link: "https://hackernoon.com/understanding-the-working-models-of-cloud-computing-a1fx3z9m",
+			image: "",
+			title: "What Are the Working Models of Cloud Computing",
+			author: "john-matthew"
+		},
+		{
+			link: "https://hackernoon.com/how-to-build-a-website-using-google-cloud-7a9vh2323",
+			image: "",
+			title: "How To Build A Website Using Google Cloud?",
+			author: "@Martin"
+		},
+		{
+			link: "https://hackernoon.com/aws-vs-google-cloud-we-asked-the-devs-805q430bc",
+			image: "",
+			title: "AWS vs Google Cloud: We Asked the Devs",
+			author: "lizziekardon"
+		},
+		{
+			link: "https://hackernoon.com/examining-cloud-backup-solutions-aws-vs-azure-vs-google-cloud-kq6f944v1",
+			image: "",
+			title: "Evaluating Cloud Backup Solutions: AWS vs. Azure vs. Google Cloud",
+			author: "twaintaylor"
+		},
+		{
+			link: "https://hackernoon.com/cloud-native-and-devops-approach-in-regulated-industries-2s38030e4",
+			image: "",
+			title: "The Cloud-Native & DevOps Approach in Regulated Industries",
+			author: "Pavan Belagatti"
+		},
+		{
+			link: "https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4",
+			image: "",
+			title: "Set Up Laravel 6 on Google Cloud Run with Continuous Integration [Step-by-Step Guide]",
+			author: "geshanm"
+		},
+		{
+			link: "https://hacktan31zg",
+			image: "",
+			title: "Understbate",
+			author: ""
+		},
+		{
+			link: "https://hackerth-ik1334co",
+			image: "https://hacker6Zx5nmHwA4JRCtfZkr2-obu34qf.jpeg",
+			title: "10 Financiealth",
+			author: ""
+		},
+		{
+			link: "https://hacgi434sm",
+			image: "",
+			title: "Non-Futaverse",
+			author: ""
+		},
+	];
+
+
+```
