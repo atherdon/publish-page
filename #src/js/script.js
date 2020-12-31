@@ -244,6 +244,10 @@ jQuery(function ($) {
 
 		if (typeof data !== 'undefined' && data) {
 			insertData();
+
+			var titlePage = $('title').html() + ' --- ' + pageTitle; 
+
+			$('title').html(titlePage);
 		}
 		
 
