@@ -8,6 +8,7 @@ Become an Idea Generator via the S.C.A.M.P.E.R. Method
 
 
 
+
 @carlo
 
 
@@ -119,4 +120,3 @@ The MVP is dead. Long live the RAT.
 
 
 @rikhigham
-

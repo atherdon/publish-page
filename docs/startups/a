@@ -4,57 +4,58 @@
 ```
 
 var data = [{
-			link: "",
+			link: "https://hackernoon.com/became-an-idea-generator-with-scamper-method-pncc3ysi",
 			image: "",
-			title: "",
-			author: ""
+			title: "Become an Idea Generator via the S.C.A.M.P.E.R. Method",
+			author: "carlo"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/the-growth-of-vertical-saas-challenges-market-leaders-aids-startups-r4q32hz",
 			image: "",
-			title: "",
-			author: ""
+			title: "Growth of Vertical SaaS Challenges Market Leaders, Benefits Startups",
+			author: "techlooter"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/how-firstbaseio-helps-technology-companies-scale-1o9832eu",
 			image: "",
-			title: "",
-			author: ""
+			title: "How Setting up a Company in the US Helps Startups Scale",
+			author: "DmitryKardis"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/5-reasons-why-your-business-needs-vr-today-z31642ul",
 			image: "",
-			title: "",
-			author: ""
+			title: "5 Reasons Why Your Business Needs VR Today",
+			author: "anna_s"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/need-a-startup-idea-start-with-a-problem-2bd74f2e108c",
 			image: "",
-			title: "",
-			author: ""
+			title: "Need a startup idea? Start with a problem.",
+			author: "iamnoahwheeler"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/have-you-ever-been-told-thats-not-a-good-idea-fpdb38o8",
 			image: "",
-			title: "",
-			author: ""
+			title: "Have You Ever Been Told Your Business Idea Sucks?",
+			author: "patrickleet"
 		},
 		{
-			link: ""
-			title: "",
-			author: ""
+			link: "https://hackernoon.com/the-thought-process-behind-startup-ideas-862c01d07f30"
+			image: "",
+			title: "The Thought Process Behind Startup Ideas",
+			author: "quoraanswers"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/10-000-new-business-ideas-using-heuristics-jd5e326s",
 			image: "",
-			title: "",
-			author: ""
+			title: "10,000+ Personalized Business Ideas Using Heuristics",
+			author: "smepals"
 		},
 		{
-			link: "",
+			link: "https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02",
 			image: "",
-			title: "",
-			author: ""
+			title: "The MVP is dead. Long live the RAT.",
+			author: "rikhigham"
 		},
 	];
 
