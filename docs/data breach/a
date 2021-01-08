@@ -40,7 +40,7 @@ var data = [{
 			author: "Marina Gaf"
 		},
 		{
-			link: "https://hackernoon.com/effects-a-data-breach-can-have-on-your-business-in-the-long-term-au6n3ytt"
+			link: "https://hackernoon.com/effects-a-data-breach-can-have-on-your-business-in-the-long-term-au6n3ytt",
 			image: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0",
 			title: "Effects a Data Breach Can Have on Your Business in the Long Term",
 			author: "Cypress Data Defense"
