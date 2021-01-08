@@ -754,13 +754,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 208px;
+    width: 454px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(1) img {
-    width: 208px;
+    width: 454px;
 }
 
 .sec-community__masonry a:nth-child(2) {
@@ -769,13 +769,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 252px;
+    width: 85px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(2) img {
-    width: 252px;
+    width: 85px;
 }
 
 .sec-community__masonry a:nth-child(3) {
@@ -784,13 +784,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 287px;
+    width: 421px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(3) img {
-    width: 287px;
+    width: 421px;
 }
 
 .sec-community__masonry a:nth-child(4) {
@@ -799,13 +799,13 @@ a {
         -ms-flex: auto;
             flex: auto;
     margin: 0 8px 8px;
-    width: 403px;
+    width: 259px;
     height: 250px;
     min-width: 150px;
 }
 
 .sec-community__masonry a:nth-child(4) img {
-    width: 403px;
+    width: 259px;
 }
 
 .sec-community__masonry-brick {
