@@ -13,7 +13,7 @@
     "animate.css": "4.1.1",
     "bootstrap": "4.5.3",
     "browser-sync": "2.26.13",
-    "del": "5.1.0",
+    "del": "6.0.0",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "7.0.1",
     "gulp-cheerio": "1.0.0",
