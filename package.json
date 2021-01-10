@@ -35,7 +35,7 @@
     "gulp-webp": "4.0.1",
     "gulp-webp-html": "1.0.2",
     "gulp-webpcss": "1.1.1",
-    "jquery": "3.5.0",
+    "jquery": "3.5.1",
     "normalize.css": "8.0.1",
     "stylelint": "13.7.0",
     "stylelint-declaration-block-no-ignored-properties": "2.3.0",
