@@ -37,7 +37,7 @@
     "gulp-webpcss": "1.1.1",
     "jquery": "3.5.1",
     "normalize.css": "8.0.1",
-    "stylelint": "13.8.0",
+    "stylelint": "13.9.0",
     "stylelint-declaration-block-no-ignored-properties": "2.3.0",
     "stylelint-order": "4.1.0",
     "stylelint-scss": "3.18.0",
