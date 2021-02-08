@@ -50,7 +50,7 @@
     "gulp-sourcemaps": "^3.0.0",
     "nouislider": "^14.6.2",
     "postcss": "^8.2.1",
-    "pro-gallery": "^2.4.1",
+    "pro-gallery": "^3.0.0",
     "slick-carousel": "^1.8.1",
     "sort-css-media-queries": "^1.5.2",
     "swiper": "^6.4.5",
