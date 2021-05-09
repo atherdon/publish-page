@@ -48,7 +48,7 @@
     "chokidar": "^3.4.3",
     "gulp-sass-error": "^1.0.5",
     "gulp-sourcemaps": "^3.0.0",
-    "nouislider": "^14.6.2",
+    "nouislider": "^15.0.0",
     "postcss": "^8.2.1",
     "pro-gallery": "^2.4.1",
     "slick-carousel": "^1.8.1",
