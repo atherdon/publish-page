@@ -52,7 +52,7 @@
     "postcss": "^8.2.1",
     "pro-gallery": "^2.4.1",
     "slick-carousel": "^1.8.1",
-    "sort-css-media-queries": "^1.5.2",
+    "sort-css-media-queries": "^2.0.0",
     "swiper": "^6.4.5",
     "wnumb": "^1.2.0"
   }
